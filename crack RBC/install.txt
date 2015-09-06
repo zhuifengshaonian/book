@@ -1,0 +1,10 @@
+1. Install Edraw Max 7.9.
+2. Copy the "addreg" and "user.cfg" files in the folder where you installed the software.
+3. If you have opened the program must close. Double click on the "addreg" file to modify the activation record.
+4. Open the "user.cfg" file with notepad (right click> Open With)
+5. Open the program, click the Help tab in Register
+6. Copy of the Licence notebook Name and Product Key.
+7. Click Enable. It indicates that the process failed.
+8. A new field appears to enter the Key.
+9. Click the Manually Activate button.
+10. Restart the program and enjoy.

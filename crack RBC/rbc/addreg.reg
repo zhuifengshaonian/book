@@ -1,0 +1,14 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\EdrawSoft\Edraw\Settings\BCGPReports]
+"DiagramsView-0"=dword:00000001
+"DiagramsView-1"=dword:00000003
+"DiagramsView-2"=dword:00000001
+"DiagramsView-3"=dword:00000004
+"DiagramsView-4"=dword:00000000
+"DiagramsView-5"=dword:00000008
+"DiagramsView-6"=dword:00000004
+"DiagramsView-7"=dword:00000006
+"DiagramsView-8"=dword:00000001
+"DiagramsView-9"=dword:00000008
+
